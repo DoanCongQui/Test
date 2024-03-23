@@ -1,8 +1,8 @@
 from Motor import Motor
 
-motor = Motor(2, 3, 4, 17, 27, 22)
+motor = Motor(17, 27, 22)
 
-motor.chay(speed=0.5)
+motor.chay(speed=0.5, t=10)
 
         # Chay max 
 #  motor.chay(speed=1, t=20)

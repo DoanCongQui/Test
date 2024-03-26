@@ -1,0 +1,4 @@
+ py detection.py -w output.mp4 -s 10 project_video.mp4
+
+
+"q": close
